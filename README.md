@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="assets/logo.png" width="180" />
-</p>
+</p> https://raw.githubusercontent.com/thedarkhorse934/JMTK-ERC-20-Token/683012ca3b4a0209662c07d8daf9802e10a218d0/IMG_3206.jpeg
 
 
 
