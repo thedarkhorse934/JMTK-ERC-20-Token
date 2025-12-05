@@ -22,6 +22,34 @@ This token extends the base ERC-20 standard with advanced features such as snaps
 
 ---
 
+# JMTK Token (ERC-20)
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8.20-black)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4.9.5-blue)
+
+A professional ERC-20 token featuring burn, snapshots, permit signatures, roles, and capped supply.  
+Deployed on the Sepolia testnet for learning and portfolio purposes.
+
+---
+
+## 🧾 Contract Verification (Etherscan)
+
+**Network:** Sepolia  
+**Contract Address:** `0x____`  
+
+### ✔ Verified Using:
+- **Compiler:** 0.8.20  
+- **Optimization:** Enabled  
+- **Runs:** 200  
+- **EVM Version:** Default  
+
+### 📄 Source Files Included:
+- `JMTK.sol`
+- `JMTK-flattened.sol`
+
+---
+
 ## 🚀 Features
 
 ### 🔹 Mintable (with MAX SUPPLY)
