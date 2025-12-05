@@ -10,7 +10,10 @@
 ![ERC20](https://img.shields.io/badge/type-ERC20-green)
 
 
-![JMTK Logo](https://raw.githubusercontent.com/thedarkhorse934/JMTK-ERC-20-Token/683012ca3b4a0209662c07d8daf9802e10a218d0/IMG_3206.jpeg)
+<p align="center">
+  <img src= https://raw.githubusercontent.com/thedarkhorse934/JMTK-ERC-20-Token/683012ca3b4a0209662c07d8daf9802e10a218d0/IMG_3206.jpeg />
+</p>
+
 
 # 💰 JMTK Token — ERC-20 Token
 
