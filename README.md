@@ -7,6 +7,11 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/thedarkhorse934/blockchain-learning-portfolio?style=social)
 ![Audit](https://img.shields.io/badge/Security-Not%20Audited-orange)
 
+![Verified](https://img.shields.io/badge/verified-etherscan-blue)
+![ERC20](https://img.shields.io/badge/type-ERC20-green)
+![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
+
+
 
 # 💰 JMTK Token — Advanced ERC-20 Token
 
