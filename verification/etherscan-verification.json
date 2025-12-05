@@ -1,0 +1,13 @@
+{
+  "contractName": "JMTK",
+  "compilerVersion": "v0.8.20+commit.a1b79de6",
+  "optimizationUsed": true,
+  "runs": 200,
+  "constructorArguments": "",
+  "evmVersion": "default",
+  "licenseType": "MIT",
+  "network": "Sepolia Testnet",
+  "contractAddress": "<YOUR CONTRACT ADDRESS HERE>",
+  "verificationDate": "<DATE>",
+  "etherscanLink": "<ETHERSCAN CONTRACT URL>"
+}
