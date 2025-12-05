@@ -26,6 +26,8 @@ This token extends the base ERC-20 standard with advanced features such as snaps
 
 **Network:** Sepolia  
 **Contract Address:** 0xA2c64bbea2D5679a16dBd4B70564522D1F2F3277  
+**Etherscan Contract Page:** https://sepolia.etherscan.io/address/0xYourContractAddress
+**Deployment Transaction:** https://sepolia.etherscan.io/tx/0xYourDeploymentTxHash
 
 ### ✔ Verified Using:
 - **Compiler:** 0.8.20  
