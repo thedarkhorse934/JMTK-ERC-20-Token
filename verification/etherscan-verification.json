@@ -7,7 +7,7 @@
   "evmVersion": "default",
   "licenseType": "MIT",
   "network": "Sepolia Testnet",
-  "contractAddress": "<YOUR CONTRACT ADDRESS HERE>",
-  "verificationDate": "<DATE>",
-  "etherscanLink": "<ETHERSCAN CONTRACT URL>"
+  "contractAddress": "0xA2c64bbea2D5679a16dBd4B70564522D1F2F3277",
+  "verificationDate": "03/12/25",
+  "etherscanLink": "https://sepolia.etherscan.io/address/0xa2c64bbea2d5679a16dbd4b70564522d1f2f3277#code"
 }
