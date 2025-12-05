@@ -16,7 +16,7 @@
 
 
 
-# 💰 JMTK Token — Advanced ERC-20 Token
+# 💰 JMTK Token — ERC-20 Token
 
 
 **Mintable • Burnable • Snapshot • Permit • Role-Based Access Control**
