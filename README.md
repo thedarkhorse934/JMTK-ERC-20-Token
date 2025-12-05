@@ -10,6 +10,12 @@
 ![ERC20](https://img.shields.io/badge/type-ERC20-green)
 
 
+<p align="center">
+  <img src="assets/logo.png" width="180" />
+</p>
+
+
+
 # 💰 JMTK Token — Advanced ERC-20 Token
 
 
